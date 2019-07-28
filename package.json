@@ -1,0 +1,14 @@
+{
+  "name": "rollup-code-splitting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LarsDenBakker/rollup-code-splitting.git",
+  "author": "Lars den Bakker <larsdenbakker@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "dependencies": {
+    "rollup": "^1.17.0"
+  }
+}
